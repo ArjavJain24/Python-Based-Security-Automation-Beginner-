@@ -42,7 +42,6 @@ Python-Security-Automation/
 ---
 
 ## ▶️ How to Run
-```bash
 python brute_force_detector.py
 
 ---
